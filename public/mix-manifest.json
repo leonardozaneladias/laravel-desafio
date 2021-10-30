@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/axios.min.js": "/js/axios.min.js",
+    "/js/axios.min.map": "/js/axios.min.map",
+    "/js/moment.min.js": "/js/moment.min.js",
+    "/js/moment.min.js.map": "/js/moment.min.js.map",
+    "/js/ldloader.min.js": "/js/ldloader.min.js",
+    "/js/ldloader.min.css": "/js/ldloader.min.css"
+}
